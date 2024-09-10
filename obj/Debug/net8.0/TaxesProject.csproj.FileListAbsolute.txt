@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Employees\Employees\bin\Debug\net8.0\TaxesProject.exe
+C:\Users\pc\source\repos\Employees\Employees\bin\Debug\net8.0\TaxesProject.deps.json
+C:\Users\pc\source\repos\Employees\Employees\bin\Debug\net8.0\TaxesProject.runtimeconfig.json
+C:\Users\pc\source\repos\Employees\Employees\bin\Debug\net8.0\TaxesProject.dll
+C:\Users\pc\source\repos\Employees\Employees\bin\Debug\net8.0\TaxesProject.pdb
+C:\Users\pc\source\repos\Employees\Employees\obj\Debug\net8.0\TaxesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Employees\Employees\obj\Debug\net8.0\TaxesProject.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Employees\Employees\obj\Debug\net8.0\TaxesProject.AssemblyInfo.cs
+C:\Users\pc\source\repos\Employees\Employees\obj\Debug\net8.0\TaxesProject.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Employees\Employees\obj\Debug\net8.0\TaxesProject.dll
+C:\Users\pc\source\repos\Employees\Employees\obj\Debug\net8.0\refint\TaxesProject.dll
+C:\Users\pc\source\repos\Employees\Employees\obj\Debug\net8.0\TaxesProject.pdb
+C:\Users\pc\source\repos\Employees\Employees\obj\Debug\net8.0\TaxesProject.genruntimeconfig.cache
+C:\Users\pc\source\repos\Employees\Employees\obj\Debug\net8.0\ref\TaxesProject.dll
